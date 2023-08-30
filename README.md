@@ -5,3 +5,5 @@ The current list of things to implement:
   - Change the way the game outputs its states, at the moment it does this as tensors which slows things down.
   - Reimpliment the way the game models taking pieces, at the moment this is a big slow down.
   - Implement a cleaner API for play and graphics.
+
+A lot of how the MCTS was implemented was insppired by https://github.com/suragnair/alpha-zero-general/
