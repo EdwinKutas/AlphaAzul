@@ -6,4 +6,4 @@ The current list of things to implement:
   - Reimpliment the way the game models taking pieces, at the moment this is a big slow down.
   - Implement a cleaner API for play and graphics.
 
-A lot of how the MCTS was implemented was insppired by https://github.com/suragnair/alpha-zero-general/
+A lot of how the MCTS was implemented was inspired by https://github.com/suragnair/alpha-zero-general/
